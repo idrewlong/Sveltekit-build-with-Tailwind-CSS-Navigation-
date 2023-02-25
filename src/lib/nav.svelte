@@ -36,7 +36,7 @@
       <div class="navbar-start">
         <button class="btn btn-ghost btn-circle" >
           <a href="/home">
-          <img src="/IDLOGO_2.png" class="h-14 hover:scale-105 duration-200" alt="" />
+          <img src="/IDLOGO.png" class="h-14 hover:scale-105 duration-200" alt="" />
           </a>
         </button>
         <button>
@@ -93,7 +93,7 @@
         <div>
           <button class="btn btn-ghost btn-circle" >
             <a href="/home">
-            <img src="/IDLOGO_2.png" class="h-16 hover:scale-105 duration-200" alt="" />
+            <img src="/IDLOGO.png" class="h-16 hover:scale-105 duration-200" alt="" />
             </a>
           </button>
         </div>
@@ -139,7 +139,7 @@
       <div class="w-full relative flex justify-between lg:w-auto  px-4 lg:static lg:block lg:justify-start">
           <button class="btn btn-ghost btn-circle" >
             <a href="/home">
-            <img src="/IDLOGO_2.png" class="h-14 hover:scale-105 duration-200" alt="" />
+            <img src="/IDLOGO.png" class="h-14 hover:scale-105 duration-200" alt="" />
             </a>
           </button>
       
